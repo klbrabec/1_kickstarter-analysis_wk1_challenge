@@ -12,11 +12,10 @@ of a theater project is the best option for project development.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-<INCLUDE LINK TO LAUNCH DATE GRAPHIC HERE> 
-
+![Outcomes by Launch Date.png](https://github.com/klbrabec/kickstarter-analysis/blob/main/Outcomes%20by%20Launch%20Date.png)
 
 ### Analysis of Outcomes Based on Goals
-<INCLUDE LINK TO OUTCOMES GRAPHIC HERE>
+![Outcomes vs_Goals.png](https://github.com/klbrabec/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
@@ -24,23 +23,16 @@ of a theater project is the best option for project development.
 ## Results
 
 ### Outcomes based on Launch Date
-As indicated in the graph above, launch dates do factor strongly into the performance of a crowdfunding project.  Year over year, the months with the highest numbers of 
-successful projects are May and June.    The highest number of failed projects falls into the May launch window (52 projects), with July and October being close
+As indicated in the graph above, launch dates do factor strongly into the performance of a crowdfunding project.  Year over year, the months with the highest numbers of successful projects are May and June. The highest number of failed projects falls into the May launch window (52 projects), with July and October being close
 behind with 50 projects each. 
 
-The total number of theater projects included in the data set includes the majority of projects being launched within the April to August time frame.   If more projects
-were lanched in the September through March time frame, they were not included in this data set.  There is a potential that outcomes may change based on additional 
-information for those time frames. 
+The total number of theater projects included in the data set includes the majority of projects being launched within the April to August time frame.   If more projects were lanched in the September through March time frame, they were not included in this data set.  There is a potential that outcomes may change based on additional information for those time frames. 
 
-###Outcomes Based on Goals 
+### Outcomes Based on Goals 
 
-The graph above shows the relationship of a project's success to its defined goal amount.  The higher the goal set, the less likely that the project will succeed. For example, 
-no projects that had an initial goal set between $45,000 and $49,999 were successful, while only 13% of projects with goals set 50,000 or higher were successful.  It would 
-appear that the 'sweet spot' for successful projects is at the $35,000 to $44,999 range.  It is interesting to note that 76% of projects with a goal set under 
-$1,000 were successful.  This could be contributed to the 'excitement' of being involved in a small project as a backer, but it would necessitate the interviewing
-of participants to determine if this is truly the case.  
+The graph above shows the relationship of a project's success to its defined goal amount.  The higher the goal set, the less likely that the project will succeed. For example, no projects that had an initial goal set between $45,000 and $49,999 were successful, while only 13% of projects with goals set 50,000 or higher were successful.  It would  appear that the 'sweet spot' for successful projects is at the $35,000 to $44,999 range.  It is interesting to note that 76% of projects with a goal set under $1,000 were successful.  This could be contributed to the 'excitement' of being involved in a small project as a backer, but it would necessitate the interviewing of participants to determine if this is truly the case.  
 
-###Challenges and Limitations
+### Challenges and Limitations
 The provided data used in this analysis includes nine separate high level categories, including film & video, theater, and music.  Each of these parent categories
 encapsulate multiple sub-categories, allowing for further refinement and targeted analysis of performance within the various sub-categories.   However, the categories
 assigned to the data do not appear to describe all potential types of events in the theater space.  For example, we are limited to plays and musicals, however 
