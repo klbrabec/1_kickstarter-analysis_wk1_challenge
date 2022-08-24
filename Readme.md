@@ -3,7 +3,6 @@
 ## Overview of Project
 
 ### Purpose
-
 The purpose of this project is to determine how various campaign types perform related to their defined funding goals and launch timeframes.  This analysis will 
 assist in defining the funding goals for future projects and when to launch them onto crowdfunding platforms in order to have the best results.  Additionally, 
 information as included as part of this analysis will allow for the comparison of theater based projects to other types of projects to determine if the creation
@@ -17,9 +16,6 @@ of a theater project is the best option for project development.
 ### Analysis of Outcomes Based on Goals
 ![Outcomes vs_Goals.png](https://github.com/klbrabec/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
-
-### Challenges and Difficulties Encountered
-
 ## Results
 
 ### Outcomes based on Launch Date
@@ -29,7 +25,6 @@ behind with 50 projects each.
 The total number of theater projects included in the data set includes the majority of projects being launched within the April to August time frame.   If more projects were lanched in the September through March time frame, they were not included in this data set.  There is a potential that outcomes may change based on additional information for those time frames. 
 
 ### Outcomes Based on Goals 
-
 The graph above shows the relationship of a project's success to its defined goal amount.  The higher the goal set, the less likely that the project will succeed. For example, no projects that had an initial goal set between $45,000 and $49,999 were successful, while only 13% of projects with goals set 50,000 or higher were successful.  It would  appear that the 'sweet spot' for successful projects is at the $35,000 to $44,999 range.  It is interesting to note that 76% of projects with a goal set under $1,000 were successful.  This could be contributed to the 'excitement' of being involved in a small project as a backer, but it would necessitate the interviewing of participants to determine if this is truly the case.  
 
 ### Challenges and Limitations
